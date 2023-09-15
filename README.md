@@ -25,6 +25,6 @@ Resume Builder is a web application that allows you to create and preview your r
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to us at [your-email@example.com](mailto:your-vaibhavupadhyay306@gmail.com).
+If you have any questions or feedback, feel free to reach out to us at [vaibhavupadhyay306@gmail.com](mailto:vaibhavupadhyay306@gmail.com).
 
-Happy resume building! 🚀
+Happy resume-building! 🚀
